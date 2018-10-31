@@ -1,0 +1,48 @@
+{
+  "videos": {
+    "GET": 0,
+    "POST": 1,
+    "PUT": 0,
+    "DELETE": 1
+  },
+  "users": {
+    "GET": 1,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1,
+    "PATCH":0
+  },
+  "playlists": {
+    "GET": 0,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1
+  },
+  "classrooms": {
+    "GET": 1,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1,
+    "PATCH": 1
+  },
+  "courseclassroom": {
+    "GET": 1,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1
+  },
+  "playlistadmin": {
+    "GET": 1,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1,
+    "PATCH": 1
+  },
+  "exercise": {
+    "GET": 1,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1,
+    "PATCH": 0
+  }
+}
